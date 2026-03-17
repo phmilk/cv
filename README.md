@@ -1,58 +1,83 @@
 # PAULO HENRIQUE ARAUJO LEITE
-Desenvolvedor Front-end Sênior | React | Vue | TypeScript
-Uberlândia, MG, Brasil | (34) 99653-7811 | paulohaleite@gmail.com
+**Senior Frontend Engineer | React | TypeScript | Scalable Web Applications**
+
+Uberlândia, MG, Brasil | (34) 99653-7811 | paulohaleite@gmail.com  
 https://www.linkedin.com/in/paulohaleite/ | https://github.com/phmilk
 
 ## RESUMO PROFISSIONAL
-Desenvolvedor Front-end com mais de 7 anos de experiência na construção de aplicações web escaláveis e de alto impacto para milhões de usuários. Especialista em React, JavaScript e TypeScript, com sólida atuação em ecossistemas Vue.js e Node.js. Experiência comprovada na integração de IA (LLM) para otimização de suporte e no desenvolvimento de Design Systems e arquiteturas micro-front-end. Sólidos conhecimentos em Cloud (AWS/GCP), CI/CD (GitHub Actions) e práticas de Clean Code. Foco em performance, escalabilidade e entrega de valor através de metodologias ágeis.
 
-## HARD SKILLS (Competências Técnicas)
-* Linguagens: JavaScript (ES6+), TypeScript, HTML5, CSS3, Java, Python, Go, Bash.
-* Frameworks/Libraries: React.js, Next.js, Vue.js, Nuxt.js, React Native (Expo), Lit.
-* Estilização: Tailwind CSS, Styled Components, Material Design 3, SASS.
-* Testes: Jest, Vitest, React Testing Library, Cypress, Playwright.
-* Back-end & Mobile: Node.js, APIs REST, GraphQL, Firebase, Android Nativo.
-* Cloud & DevOps: AWS, Google Cloud Platform (GCP), Docker, CI/CD (GitHub Actions, GitLab CI).
-* Ferramentas: Git, ESLint, Prettier, Webpack, Vite.
+Desenvolvedor Front-end Sênior com **7+ anos de experiência** na construção de aplicações web escaláveis utilizadas por milhões de usuários. Especialista em **React, JavaScript e TypeScript**, com forte atuação em **arquitetura front-end, Design Systems e micro-frontends**.
+
+Experiência liderando tecnicamente desenvolvedores, desenvolvendo **bibliotecas cross-framework**, e integrando **IA (LLMs)** em produtos reais para melhorar a experiência do usuário e reduzir carga operacional de suporte. Experiência em ambientes de **alta escala**, com foco em **performance, qualidade de código e entrega contínua**.
+
+## HARD SKILLS
+
+- **Front-end:** React.js, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript (ES6+), Lit  
+- **Estilização:** Tailwind CSS, Styled Components, Material Design 3, SASS  
+- **Testes:** Jest, Vitest, React Testing Library, Cypress, Playwright  
+- **Back-end:** Node.js, REST APIs, GraphQL, Firebase  
+- **Mobile:** React Native (Expo), Android Nativo  
+- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Docker, CI/CD (GitHub Actions, GitLab CI)  
+- **Linguagens adicionais:** Java, Python, Go, Bash  
+- **Ferramentas:** Git, ESLint, Prettier, Webpack, Vite  
 
 ## EXPERIÊNCIA PROFISSIONAL
-### Hotmart | Frontend Engineer III
-Fevereiro de 2023 – Junho de 2025 (2 anos e 5 meses) | Remoto
 
-* Liderança Técnica: Atuação como referência técnica em arquitetura front-end, mentorando desenvolvedores níveis I e II e definindo padrões de código.
-* Integração de IA: Implementação de agente de IA (LLM) na central de ajuda, automatizando o autoatendimento e reduzindo drasticamente a abertura de tickets de suporte.
-* Desenvolvimento Cross-Framework: Criação de biblioteca de CSAT utilizando Lit, garantindo compatibilidade entre projetos React e Vue, eliminando custos com ferramentas externas.
-* Sistemas de Pagamento: Desenvolvimento e manutenção de fluxos de checkout críticos (Pix Automático e Parcelado Hotmart), focando em alta conversão e estabilidade.
-* Qualidade e Performance: Refatoração de sistemas legados e implementação de testes automatizados (Unitários e E2E), elevando a manutenibilidade e reduzindo a taxa de bugs em produção.
+### Hotmart | Frontend Engineer III  
+Fevereiro de 2023 – Junho de 2025 | Remoto
 
-### Woli | Desenvolvedor Front-end
-Julho de 2019 – Fevereiro de 2023 (3 anos e 8 meses) | Uberlândia, MG
+- **Referência técnica em arquitetura front-end**, apoiando e mentorando desenvolvedores de níveis I e II e contribuindo para a definição de padrões de código e boas práticas de desenvolvimento.
 
-* Mobile: Desenvolvimento da versão mobile da plataforma utilizando React Native e Expo, aumentando o engajamento de usuários em dispositivos móveis.
-* Arquitetura White Label: Criação de sistema de landing pages e portais altamente customizáveis para múltiplos clientes, reduzindo o tempo de setup de novos projetos.
-* Design System: Construção de um Design System reutilizável (React/Vue) com temas dinâmicos, garantindo consistência visual e acessibilidade em diversos produtos.
-* Streaming/EAD: Desenvolvimento do front-end do Woliflix, plataforma de vídeos otimizada para consumo de conteúdos educacionais.
+- **Redução significativa da abertura de tickets de suporte** através da implementação de um agente de **IA baseado em LLM** integrado à central de ajuda, automatizando o autoatendimento de usuários.
 
-### Bawi Repayment Technologies | Desenvolvedor Full Stack
-Abril de 2017 – Abril de 2019 (2 anos e 1 mês) | Patos de Minas, MG
+- **Redução de custos com ferramentas externas** através da criação de uma **biblioteca de CSAT cross-framework** utilizando **Lit**, compatível com aplicações React e Vue.
 
-* Cloud & Microserviços: Desenvolvimento de dashboards administrativos e sistemas de monitoramento na GCP, utilizando Node.js, Go e Python.
-* Mobile Nativo: Criação de aplicativo Android (Java) para monitoramento de métricas operacionais e OKRs de envios de SMS.
-* DevOps: Configuração de pipelines de CI/CD no GitLab, automatizando processos de build e deploy de aplicações Vue.js e microserviços.
+- **Desenvolvimento e manutenção de fluxos críticos de checkout**, incluindo **Pix Automático e Parcelado Hotmart**, com foco em estabilidade, performance e alta conversão.
 
-### Quick Mobile | Desenvolvedor de Software
-2015 – 2017 (2 anos) | Patos de Minas, MG
+- **Melhoria da qualidade e manutenibilidade de sistemas legados**, através da refatoração de código e implementação de **testes automatizados (unitários e E2E)**.
 
-* Data Intelligence: Desenvolvimento de web scrapers com Python e Selenium para enriquecimento de base de dados e segmentação de campanhas.
-* Automação: Criação de scripts em Bash e Node.js para higienização e tratamento de grandes volumes de dados.
+
+### Woli | Desenvolvedor Front-end  
+Julho de 2019 – Fevereiro de 2023 | Uberlândia, MG
+
+- **Expansão da presença mobile da plataforma** através do desenvolvimento da versão mobile utilizando **React Native e Expo**, aumentando o acesso via dispositivos móveis.
+
+- **Redução do tempo de lançamento de novos projetos** através da criação de uma arquitetura **white-label** para landing pages e portais customizáveis para múltiplos clientes.
+
+- **Criação de um Design System reutilizável** compatível com aplicações **React e Vue**, com suporte a temas dinâmicos e foco em consistência visual e acessibilidade.
+
+- **Desenvolvimento do front-end da plataforma Woliflix**, solução de streaming educacional otimizada para consumo de conteúdo em vídeo.
+
+### Bawi Repayment Technologies | Desenvolvedor Full Stack  
+Abril de 2017 – Abril de 2019 | Patos de Minas, MG
+
+- **Desenvolvimento de dashboards administrativos e sistemas de monitoramento** hospedados na **Google Cloud Platform**, utilizando **Node.js, Go e Python**.
+
+- **Criação de aplicativo Android nativo (Java)** para monitoramento de métricas operacionais e acompanhamento de OKRs relacionados ao envio de campanhas SMS.
+
+- **Automação de pipelines de build e deploy** através da implementação de **CI/CD no GitLab**, suportando aplicações **Vue.js** e microserviços.
+
+### Quick Mobile | Desenvolvedor de Software  
+2015 – 2017 | Patos de Minas, MG
+
+- **Enriquecimento de bases de dados de marketing** através do desenvolvimento de **web scrapers com Python e Selenium**, coletando dados públicos de redes sociais e portais.
+
+- **Automação de processos de higienização e tratamento de dados** utilizando **Node.js e Bash**, melhorando a qualidade e confiabilidade das bases utilizadas em campanhas de SMS.
+
 
 ## FORMAÇÃO ACADÊMICA
-* Bacharelado em Sistemas de Informação | Centro Universitário de Patos de Minas (UNIPAM) | 2013 – 2017
 
-* Técnico em Programação de Jogos Digitais | Senac DF | 2014 – 2015
+**Bacharelado em Sistemas de Informação**  
+Centro Universitário de Patos de Minas (UNIPAM)  
+2013 – 2017
+
+**Técnico em Programação de Jogos Digitais**  
+Senac DF  
+2014 – 2015
 
 ## SOFT SKILLS
-* Autonomia e Resolução de Problemas Complexos.
-* Comunicação Assertiva para Times Multidisciplinares.
-* Mentalidade de Melhoria Contínua (Kaizen).
-* Forte Foco em Experiência do Usuário (UX).
+
+- Autonomia na resolução de problemas complexos  
+- Comunicação técnica clara em times multidisciplinares  
+- Mentalidade de melhoria contínua (Kaizen)  
+- Forte foco em experiência do usuário (UX)
