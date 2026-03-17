@@ -1,7 +1,7 @@
 # PAULO HENRIQUE ARAUJO LEITE
 Desenvolvedor Front-end Sênior | React | Vue | TypeScript
 Uberlândia, MG, Brasil | (34) 99653-7811 | paulohaleite@gmail.com
-https://www.linkedin.com/in/paulohaleite/
+https://www.linkedin.com/in/paulohaleite/ | https://github.com/phmilk
 
 ## RESUMO PROFISSIONAL
 Desenvolvedor Front-end com mais de 7 anos de experiência na construção de aplicações web escaláveis e de alto impacto para milhões de usuários. Especialista em React, JavaScript e TypeScript, com sólida atuação em ecossistemas Vue.js e Node.js. Experiência comprovada na integração de IA (LLM) para otimização de suporte e no desenvolvimento de Design Systems e arquiteturas micro-front-end. Sólidos conhecimentos em Cloud (AWS/GCP), CI/CD (GitHub Actions) e práticas de Clean Code. Foco em performance, escalabilidade e entrega de valor através de metodologias ágeis.
