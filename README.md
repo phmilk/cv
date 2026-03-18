@@ -36,6 +36,7 @@ Fevereiro de 2023 – Junho de 2025 | Remoto
 
 - **Melhoria da qualidade e manutenibilidade de sistemas legados**, através da refatoração de código e implementação de **testes automatizados (unitários e E2E)**.
 
+<div class="page-break"></div>
 
 ### Woli | Desenvolvedor Front-end  
 Julho de 2019 – Fevereiro de 2023 | Uberlândia, MG
